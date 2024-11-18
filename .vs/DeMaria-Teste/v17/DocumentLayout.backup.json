@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|c:\\users\\laure\\source\\repos\\demaria-teste\\demaria-teste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|solutionrelative:demaria-teste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\demaria-teste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|solutionrelative:demaria-teste\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\demaria-teste\\model\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|solutionrelative:demaria-teste\\model\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\demaria-teste\\model\\repository\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|solutionrelative:demaria-teste\\model\\repository\\vendarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\demaria-teste\\model\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB11EB7C-0C66-4B0F-9063-699457285A7A}|DeMaria-Teste\\DeMaria-Teste.csproj|solutionrelative:demaria-teste\\model\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Form1.cs",
+              "RelativeDocumentMoniker": "DeMaria-Teste\\Form1.cs",
+              "ToolTip": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Form1.cs",
+              "RelativeToolTip": "DeMaria-Teste\\Form1.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAADwv/UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:44:34.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VendaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Model\\Repository\\VendaRepository.cs",
+              "RelativeDocumentMoniker": "DeMaria-Teste\\Model\\Repository\\VendaRepository.cs",
+              "ToolTip": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Model\\Repository\\VendaRepository.cs",
+              "RelativeToolTip": "DeMaria-Teste\\Model\\Repository\\VendaRepository.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:31:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Model\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "DeMaria-Teste\\Model\\Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Model\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "DeMaria-Teste\\Model\\Repository\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:31:04.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Model\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "DeMaria-Teste\\Model\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Model\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "DeMaria-Teste\\Model\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:31:01.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Form1.cs",
+              "RelativeDocumentMoniker": "DeMaria-Teste\\Form1.cs",
+              "ToolTip": "C:\\Users\\laure\\source\\repos\\DeMaria-Teste\\DeMaria-Teste\\Form1.cs [Design]",
+              "RelativeToolTip": "DeMaria-Teste\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:18:01.779Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
